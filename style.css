@@ -1,0 +1,42 @@
+
+body > header {
+    background-color: dodgerblue;
+    padding: 10px
+    
+}
+body > header > h1 {
+    color: white;
+    margin: auto;
+     
+}
+body > header > nav > ul {
+    list-style: none;
+    
+}
+body > header > nav > ul > li > a{
+    color: white;
+    margin: 0
+}
+
+main {
+    margin: auto;
+    width: 80%
+}
+body > main > article> footer > form > input {
+    margin-left: 85%;
+}
+
+.comments {
+    padding: 10px;
+    border-top: 1px solid black;
+}
+
+body > footer {
+    background-color: dodgerblue;
+    padding: 5px;
+}
+
+body > footer > p {
+    color: white;
+    text-align: center;
+}
